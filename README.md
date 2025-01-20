@@ -83,7 +83,7 @@ Secure signup and login functionality integrated with Firebase Authentication an
 I'm always eager to collaborate on exciting projects and explore innovative solutions. Feel free to reach out:  
 
 📧 **Email:** [Dhanrajku7856@gmail.com](mailto:Dhanrajku7856@gmail.com)  
-🌐 **Portfolio:** [dhanrajshingh.github.io/dhanrajportfolio](https://dhanrajshingh.github.io/dhanrajportfolio/#home)  
+🌐 **Portfolio:** [https://dhanrajsingh03.github.io/dhanrajportfolio.03/]
 
 ---
 
